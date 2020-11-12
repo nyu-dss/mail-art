@@ -21,7 +21,7 @@
 title:            'Mail Art Collection'
 description:      ''
 url:              ''
-baseurl:          '/mail-art'
+baseurl:          ''
 copyright:        'Example copyright org, 2020'
 logo:             '/assets/logo.png'
 
