@@ -3,5 +3,5 @@ language: ruby
 notifications:
   email: false
 script:
-  - bundle exec jekyll build -d '_site/mail-art'
+  - bundle exec jekyll build
   - bundle exec rake wax:test
