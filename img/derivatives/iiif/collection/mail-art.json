@@ -1,0 +1,81 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/mail-art.json",
+  "@type": "sc:Collection",
+  "label": "mail-art",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart14/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart14"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart12"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart13/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart13"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart8"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart9"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart6"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart11"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart7"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mailart5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mailart5"
+    }
+  ]
+}
